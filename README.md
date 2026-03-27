@@ -1,16 +1,17 @@
-## Hi there 👋
+#Hi I'm Arjun 
 
-<!--
-**Arjunnailwal07/Arjunnailwal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in coding & web development 
+Currently learning Data Structures & Algorithms 
+Building small projects to inprove my skills
+Open to collaborate on begineer projects 
+Reach me: arjunnailwal662@gmail.com
+Fun fact : I love cricket and learning new tech
+---
+Skills 
+-HTML
+-CSS
+-JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Goal
+To become a skilled Software Engineer
